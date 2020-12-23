@@ -16,6 +16,8 @@ ___
 
 #### *things that i read (i got something out of these, not necessarily joy)*
 
+*follow up: [[what i've read so far in 2021]]*
+
 ##### *web articles and essays*
 
 * [the tyranny of structureless](https://www.jofreeman.com/joreen/tyranny.htm) - jo freeman *aka* joreen
@@ -106,6 +108,8 @@ ___
 
 ##### *these are all albums i sought out to listen to with intention multiple times this year. when possible, i’ve linked to bandcamp pages, but spotify links fill the rest.*
 
+follow up: [[what i've listened to so far in 2021]]
+
 * [i shall die here](https://the-body.bandcamp.com/album/i-shall-die-here) - the body
 * [canciónes intactas](https://phantomlimblabel.bandcamp.com/album/canci-nes-intactas) - miguel noya // riyl: synths, pleasing sounds
 * [discography](https://sandy.bandcamp.com/) - alex g. // riyl: beautiful chord progressions && melodies
@@ -155,4 +159,4 @@ ___
 " target="_blank"><img src="http://img.youtube.com/vi/DPqUbN3PtMo/0.jpg" 
 alt="tuna roll" width="240" height="180" border="10" /></a>
 
-###### **xoxo josh**
+###### **xoxo josh** 
