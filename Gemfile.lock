@@ -69,10 +69,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-last-modified-at!
 
 BUNDLED WITH
-   2.1.4
+   2.2.2

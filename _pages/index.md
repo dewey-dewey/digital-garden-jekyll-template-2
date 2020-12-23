@@ -17,6 +17,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
 
+[[things i enjoyed in 2020]]
+
 <style>
   .wrapper {
     max-width: 46em;
